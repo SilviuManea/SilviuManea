@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilviuManea
 - 👀 I’m interested in JavaScript, Node, Python, MongoDb, Jenkins ... and, if I live another life, machine learning.
-- 🌱 I’m currently learning Nest.JS
+- 🌱 I’m currently learning Express and AWS-DynamoDB
 - 💞️ I’m looking to collaborate on whatever I can.
 - 📫 How to reach me - silviu.hmz@gmail.com
 
